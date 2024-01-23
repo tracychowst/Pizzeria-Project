@@ -1,6 +1,6 @@
 # Pizzeria Case Study with SQL and Tableau
 
-[**Tableau Dashboard**](https://public.tableau.com/app/profile/tracy.chow1741/viz/PizzeriaCaseStudy/Dashboard1)
+[**Tableau Dashboards**](https://public.tableau.com/app/profile/tracy.chow1741/viz/PizzeriaCaseStudy/Dashboard1)
 
 ## Background
 The client is establishing a new pizzeria that centres around delivery and pick up, without dine-in services.
@@ -10,6 +10,9 @@ The business task is to develop a relational database to capture and store all r
 
 ## About the Dataset
 The dataset is proprietary and not accessible to the public.
+
+There are a total of 10 CSV files: address, customers, ingredient, inventory, item, orders, recipe, rota, shift and staff.
+
 
 ## Overview of Business Questions
 In each dashboard, the following questions are addressed:
