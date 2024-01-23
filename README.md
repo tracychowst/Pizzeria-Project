@@ -8,12 +8,6 @@ The client is establishing a new pizzeria that centres around delivery and pick 
 ## Business Task
 The business task is to develop a relational database to capture and store all relevant business information and data efficiently, and to provide the client with a systematic means to monitor and assess business performance through interactive dashboards. The client would like three primary areas of focus: orders, stock inventory and staff management.
 
-## About the Dataset
-The dataset is proprietary and not accessible to the public.
-
-There are a total of 10 CSV files: address, customers, ingredient, inventory, item, orders, recipe, rota, shift and staff.
-
-
 ## Overview of Business Questions
 In each dashboard, the following questions are addressed:
 
@@ -42,3 +36,8 @@ In each dashboard, the following questions are addressed:
 - How many hours does each staff member work during each shift?
 - What is the hourly rate for each staff member?
 - What is the cost for each staff member?
+
+## About the Dataset
+The dataset is proprietary and not accessible to the public.
+
+There are a total of 10 CSV files: address, customers, ingredient, inventory, item, orders, recipe, rota, shift and staff.
